@@ -1,0 +1,191 @@
+Microsoft Developer Studio Workspace File, Format Version 6.00
+# WARNING: DO NOT EDIT OR DELETE THIS WORKSPACE FILE!
+
+###############################################################################
+
+Project: "Ftp Test"=".\Ftp Test.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name tstfwk
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name MiUtil
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name TA_Exceptions
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name MiVersion
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name MiThread
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name MiSynchronisation
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name TA_FTP
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name TA_Sockets
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name core.exceptions.TA_Exceptions
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name core.ftp.TA_FTP
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name core.sockets.TA_Sockets
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name core.synchronisation.TA_Synchronisation
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name core.thread.TA_Thread
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name core.utilities.TA_Util
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name core.versioning.TA_Version
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "core.exceptions.TA_Exceptions"="..\..\..\exceptions\core.exceptions.TA_Exceptions.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "core.ftp.TA_FTP"="..\..\core.ftp.TA_FTP.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "core.sockets.TA_Sockets"="..\..\..\sockets\core.sockets.TA_Sockets.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "core.synchronisation.TA_Synchronisation"="..\..\..\synchronisation\core.synchronisation.TA_Synchronisation.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "core.thread.TA_Thread"="..\..\..\threads\core.threads.TA_Thread.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "core.utilities.TA_Util"="..\..\..\utilities\core.utilities.TA_Util.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "core.versioning.TA_Version"="..\..\..\versioning\core.versioning.TA_Version.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "tstfwk"="..\..\..\..\..\cots\CppUnit\CppUnit.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name core.exceptions.TA_Exceptions
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name core.ftp.TA_FTP
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name core.sockets.TA_Sockets
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name core.synchronisation.TA_Synchronisation
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name core.thread.TA_Thread
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name core.utilities.TA_Util
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name core.versioning.TA_Version
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Global:
+
+Package=<5>
+{{{
+}}}
+
+Package=<3>
+{{{
+}}}
+
+###############################################################################
+
