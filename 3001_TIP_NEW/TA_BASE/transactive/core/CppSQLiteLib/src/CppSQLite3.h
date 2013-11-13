@@ -45,6 +45,15 @@
 
 #define CPPSQLITE_ERROR 1000
 
+//class CppSQLite3Exception
+//class CppSQLite3Buffer
+//class CppSQLite3Binary
+//class CppSQLite3Query
+//class CppSQLite3Table
+//class CppSQLite3Statement
+//class CppSQLite3DB
+
+
 NS_BEGIN(TA_Base_Core)
 
 class CppSQLite3Exception

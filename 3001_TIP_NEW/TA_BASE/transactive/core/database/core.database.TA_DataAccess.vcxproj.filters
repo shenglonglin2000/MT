@@ -85,6 +85,12 @@
     <ClInclude Include="src\DataTypesLookup.h">
       <Filter>src</Filter>
     </ClInclude>
+    <ClInclude Include="src\SQLiteConnection.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\SQLiteQueryAdapter.h">
+      <Filter>src</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\DBException.cpp">
@@ -133,6 +139,12 @@
       <Filter>src</Filter>
     </ClCompile>
     <ClCompile Include="src\DbConnectionStrings.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\SQLiteConnection.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\SQLiteQueryAdapter.cpp">
       <Filter>src</Filter>
     </ClCompile>
   </ItemGroup>

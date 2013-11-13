@@ -131,6 +131,8 @@
     <ClInclude Include="src\SQLCode.h" />
     <ClInclude Include="src\sqldef.h" />
     <ClInclude Include="src\SQLFileHelper.h" />
+    <ClInclude Include="src\SQLiteConnection.h" />
+    <ClInclude Include="src\SQLiteQueryAdapter.h" />
     <ClInclude Include="src\sqlmacrodef.h" />
     <ClInclude Include="src\SQLTypeAdapter.h" />
     <ClInclude Include="src\SQLUtilityFun.h" />
@@ -156,6 +158,8 @@
     <ClCompile Include="src\SimpleDbDatabase.cpp" />
     <ClCompile Include="src\SQLCode.cpp" />
     <ClCompile Include="src\SQLFileHelper.cpp" />
+    <ClCompile Include="src\SQLiteConnection.cpp" />
+    <ClCompile Include="src\SQLiteQueryAdapter.cpp" />
     <ClCompile Include="src\SQLTypeAdapter.cpp" />
     <ClCompile Include="src\SQLUtilityFun.cpp" />
     <ClCompile Include="src\SQLVarParms.cpp" />
