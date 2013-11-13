@@ -1,0 +1,11 @@
+cffca26ab2bf787aebedb49532cde59d  bin/dbus-daemon.exe
+0f410a9d7940d3832a16bdbbc9fffcca  bin/dbus-env.bat
+a8d1b0dba32548e694940991b44a03dc  bin/dbus-launch.exe
+cfc6df9ac3f27650407e4b8a5a8fb54a  bin/dbus-monitor.exe
+3916022b22df48545c1b2b4ca4100e7f  bin/dbus-send.exe
+7b5cca1107234afe45ef0f00c8a34281  bin/dbus-1.dll
+2ab0e63d5f9e1567b1aba7734d3f2a3b  bin/dbus-1d.dll
+ee31b6a56e04c9a8b7338c88d128f614  etc/session.conf
+fe913068a7676a1632355df7f149f4fa  etc/system.conf
+manifest/dbus-msvc-1.2.4-1-bin.mft
+manifest/dbus-msvc-1.2.4-1-bin.ver
