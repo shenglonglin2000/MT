@@ -10,9 +10,6 @@
     <ClCompile Include="src\Version.cpp">
       <Filter>src</Filter>
     </ClCompile>
-    <ClCompile Include="src\VersionGen.cpp">
-      <Filter>src</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\Version.h">

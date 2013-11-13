@@ -30,7 +30,7 @@
 #include "DebugUtil.h"
 #include "core/exceptions/src/DebugMsgConstructionException.h"
 
-const unsigned int MAXLOGMESGSIZE = 2000;
+const unsigned int MAXLOGMESGSIZE = 4000;
 
 // Class Definition: ILogType
 

@@ -26,14 +26,16 @@ namespace TA_Base_Core
 {
     // These variables are all declared external so they
     // will be picked up on link time with individual applications
+	extern char componentName[];
+	extern char componentVersion[];
+
     extern char buildVersion[];
-    extern char buildDate[];
-    extern char componentName[];
-    extern char componentVersion[];
-    extern int libraryArraySize;
-    extern char* libraryArray[];
-    extern int headerArraySize;
-    extern char* headerArray[];
+	extern char buildDate[];
+	extern int headerArraySize;
+	extern char* headerArray[];
+	extern int libraryArraySize;
+	extern char* libraryArray[];
+
     extern int otherArraySize;
     extern char* otherArray[];
 
